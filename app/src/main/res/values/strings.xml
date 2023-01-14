@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Workshop DSC Week 2</string>
+    <string name="my_profile">My Profile</string>
+    <string name="contact_me_and_let_s_get_connected">Contact me and let\'s get connected</string>
+    <string name="my_name">Muhammad Jafar Shidik</string>
+    <string name="desc_me">Hello, I am a student studying android application development and UI Design.</string>
+    <string name="find_me">Find Me</string>
+    <string name="desc_find_me">Here is the location where I live now</string>
+    <string name="about_app">About App</string>
+</resources>
